@@ -1,0 +1,3 @@
+[1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+[ActiveJob] Enqueued TestJob
+[1m[35m (0.5ms)[0m  [1m[35mCOMMIT[0m
